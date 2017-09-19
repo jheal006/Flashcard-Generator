@@ -1,0 +1,18 @@
+[
+  {
+    "text" : "Barbarossa was the German code name given to the invasion of the Soviet Union during World War II",
+    "cloze" : "Barbarossa"
+  },
+  {
+    "text" : "Winston Churchill was the British Prime Minister during the events of World War II",
+    "cloze" : "Winston Churchill"
+  },
+  {
+    "text" : "Lionheart was the nickname given to King Richard I of England",
+    "cloze" : "Lionheart"
+  },
+  {
+    "text" : "Theodore Roosevelt served as the 26th President of the United States ",
+    "cloze" : "Theodore Roosevelt"
+  }
+]
