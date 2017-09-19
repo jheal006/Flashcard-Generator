@@ -1,6 +1,5 @@
 //Create a Cloze Card Constructor Function
-// ClozeCard function displays a partial potion of the text.
-
+//ClozeCard function displays a partial potion of the text.
 
 function ClozeCard(text, cloze){
   // The text of the questions to be asked by the flashcard
@@ -13,4 +12,3 @@ function ClozeCard(text, cloze){
 }
 
 module.exports = ClozeCard;
-// var test2 = new ClozeCard('Where in the world is Carmen San Diego???', 'Carmen');

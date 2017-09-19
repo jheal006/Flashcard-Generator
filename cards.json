@@ -14,5 +14,10 @@
   {
     "text" : "Theodore Roosevelt served as the 26th President of the United States ",
     "cloze" : "Theodore Roosevelt"
+  },
+  {
+    "text" : "N/A",
+    "cloze" : "N/A"
   }
+
 ]
